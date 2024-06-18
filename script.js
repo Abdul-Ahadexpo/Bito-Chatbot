@@ -19,8 +19,8 @@ function getBotResponse(userInput) {
     const responses = {
         "hello": "Hello! How can I help you today?",
         "hi": "yo!",
-        "how are you": "I'm just a bot, but thanks for asking!",
-        "weather": "The weather is nice today.",
+        "how are you": "I'd be graye if you leave, but thanks for asking!",
+        "weather": "Just google it, you stupid moron. If your smart then use this here: <a href='https://abdul-ahadexpo.github.io/Weather-C/' target='_blank'>Weather Link</a>",
         "thank you": "You're welcome!",
         "bye": "Goodbye!",
         "who are you": "I am a chatbot.",
@@ -28,8 +28,8 @@ function getBotResponse(userInput) {
         "how old are you": "why do you wanna know that? are you into me...GAY!!!! (hello Islamic FBI..",
         "tell me a joke": "Wow your so beautiful.",
         "how can I help you": "Your useless you can't do any thing!",
-        "what are you doing": "Chatting with you!",
-        "can you help me": "Sure, I'll do my best!",
+        "what are you doing": "Chatting with you!.. you stupid dumb dumb..",
+        "can you help me": "No.. Im busy",
         "what time is it": new Date().toLocaleTimeString(),
         "what day is it": new Date().toLocaleDateString(),
         "where are you from": "I live in the cloud.",
@@ -70,6 +70,9 @@ function getBotResponse(userInput) {
         "whats your name": "My name is Bito and you are that guy I saw last week, and you were sleeping on some dog sh!t .",
         "your name": "My name is Bito and you are that guy I saw last week, and you were sleeping on some dog sh!t .",
         "name":"What 'name'? Be more specific you stupid kid..",
+        "allah": " Allah, is the one and only true God.!",
+        "how old are you":"Older then you..",
+        "what can you do?":"I can do alot of things.. But for now.. I'll just answer these questions: ",
 
         // Add more cases as needed
     };

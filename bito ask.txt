@@ -1,0 +1,37 @@
+
+"are you a robot":
+        "do you have siblings": 
+        "where do you live": 
+        "tell me about yourself": 
+        "what can you do": 
+        "what is your purpose": "
+        "why are you here": 
+        "what are your hobbies": 
+        "what is your favorite food": "
+        "what is your favorite movie": 
+        "what is your favorite book": "
+        "what is your favorite song": 
+        "what is your favorite sport": "
+        "what is your favorite animal
+        "whats the weather
+        "what is your age
+        "whats your name
+        "your name
+        "name
+        "allah
+        "islam
+        "age
+        "yo
+        "time
+        "weather
+        "text to speech
+        "how old are you
+        "what can you do?
+        "can you help me
+        "how old are you
+        "who are you
+        "bye
+        "thank you
+        "how are you
+
+      #and many more
